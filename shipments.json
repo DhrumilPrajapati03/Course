@@ -1,0 +1,30 @@
+[
+    {
+        "id": 12701,
+        "content": "aluminum sheets",
+        "weight": 8.2,
+        "destination": 11002,
+        "status": "placed"
+    },
+    {
+        "id": 12702,
+        "content": "wooden table",
+        "weight": 12.5,
+        "destination": 11003,
+        "status": "in_transit"
+    },
+    {
+        "id": 12703,
+        "content": "copper wires",
+        "weight": 11.4,
+        "destination": 11002,
+        "status": "delivered"
+    },
+    {
+        "id": 12704,
+        "content": "sanedo",
+        "weight": 10.0,
+        "destination": 13452,
+        "status": "placed"
+    }
+]
